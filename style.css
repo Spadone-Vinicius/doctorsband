@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+h2{
+    color:orangered;
+}
+body{
+    background-color: #03024D;
+    color:whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+header{
+    border-bottom: 2px solid whitesmoke;
+}
+section{
+    border-bottom: 2px solid whitesmoke;
+
+}
+footer{
+    font-size: xx-small;
+}
+
+#nome-usuário { 
+    font-weight: bold; 
+ }
+ 
